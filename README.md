@@ -56,42 +56,42 @@ The following commercial SaaS solutions lead the enterprise market in concurrent
 
 ## 💻 Open-Source GitHub Projects
 
-While enterprise-wide IBP suites are commercial, production-ready open-source engines, solvers, and modules power custom demand forecasting, MRP, inventory optimization, and supply chain building blocks. *Repositories are sorted by GitHub star count in descending order.*
+While enterprise-wide IBP suites are commercial, production-ready open-source engines, solvers, and modules power custom demand forecasting, MRP, inventory optimization, and supply chain building blocks. *Repositories are sorted by GitHub Stars_Count in descending order.*
 
-1. **[frappe/erpnext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+1. **[frappe/erpnext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    Full-featured open-source ERP suite providing MRP, production scheduling, bill of materials (BOM), work orders, and supply planning capabilities.
 
-2. **[facebook/prophet](https://github.com/facebook/prophet)** [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
+2. **[facebook/prophet](https://github.com/facebook/prophet)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
    Automatic forecasting procedure for time-series data with robust handling of trend shifts, seasonality, and holiday effects in demand planning.
 
-3. **[google/or-tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
+3. **[google/or-tools](https://github.com/google/or-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
    Google's open-source software suite for linear programming, integer programming, constraint modeling, and network distribution optimization.
 
-4. **[statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)** [![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers)  
+4. **[statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)** [![GitHub_Stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers)  
    Python module providing classes and functions for statistical estimation, time-series analysis (ARIMA, VAR, state space), and econometric modeling.
 
-5. **[unit8co/darts](https://github.com/unit8co/darts)** [![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
+5. **[unit8co/darts](https://github.com/unit8co/darts)** [![GitHub_Stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
    Python library for user-friendly forecasting and time series processing, seamlessly combining classical statistical models and deep learning (TFT, N-BEATS).
 
-6. **[inventree/InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+6. **[inventree/InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
    Open-source inventory management system offering stock control, part tracking, BOM management, and purchasing coordination.
 
-7. **[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
+7. **[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
    Lightning-fast statistical time series forecasting algorithms (AutoARIMA, AutoETS) optimized for high-volume enterprise SKU demand forecasting pipelines.
 
-8. **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
+8. **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** [![GitHub_Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
    Python-based open modeling framework for formulating mathematical optimization problems for complex supply networks and production planning.
 
-9. **[coin-or/pulp](https://github.com/coin-or/pulp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
+9. **[coin-or/pulp](https://github.com/coin-or/pulp)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
    High-level linear programming modeler written in Python that interfaces with solvers like CBC and GLPK to solve inventory and capacity constraints.
 
-10. **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
+10. **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub_Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
     Open-source AI planning solver (fork of OptaPlanner) for complex vehicle routing, shift scheduling, and multi-stage production optimization.
 
-11. **[frePPLe/frepple](https://github.com/frePPLe/frepple)** [![GitHub stars](https://img.shields.io/github/stars/frePPLe/frepple?style=social&color=white)](https://github.com/frePPLe/frepple/stargazers)  
+11. **[frePPLe/frepple](https://github.com/frePPLe/frepple)** [![GitHub_Stars](https://img.shields.io/github/stars/frePPLe/frepple?style=social&color=white)](https://github.com/frePPLe/frepple/stargazers)  
     Open-source demand forecasting, inventory optimization, and Advanced Planning & Scheduling (APS) tool tailored for manufacturing companies.
 
-12. **[ngoineau/ootils-core](https://github.com/ngoineau/ootils-core)** [![GitHub stars](https://img.shields.io/github/stars/ngoineau/ootils-core?style=social&color=white)](https://github.com/ngoineau/ootils-core/stargazers)  
+12. **[ngoineau/ootils-core](https://github.com/ngoineau/ootils-core)** [![GitHub_Stars](https://img.shields.io/github/stars/ngoineau/ootils-core?style=social&color=white)](https://github.com/ngoineau/ootils-core/stargazers)  
     Graph-based supply chain decision engine supporting propagation, shortage detection, MRP-style explosion, and scenario simulation.
 
 ---
